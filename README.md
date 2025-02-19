@@ -7,7 +7,8 @@ Tela do mapa de máquinas do usuário: ![image](https://github.com/user-attachme
 
 Tela de Máquinas: ![image](https://github.com/user-attachments/assets/2e3a9c73-aaf5-475a-8487-f5eb144abab6)
 
-Modal para verificar as transações: ![image](https://github.com/user-attachments/assets/46ff07bf-4216-4509-9a5d-f2e392c7eaa4)
+Modal para verificar as transações: ![Sem título](https://github.com/user-attachments/assets/f35e20d2-5264-4540-a80e-27464e5f1481)
+
 
 
 Existem outras funcionalidades associadas a máquina e a outro backend que estabelece conexões com os micro controladores ESP que estão na máquina e se comunicam através de requisições https mas sem telas.
